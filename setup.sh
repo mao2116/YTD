@@ -11,7 +11,7 @@ pip install pytube
 
 clear
 sleep 1.0
-cd $PREFIX/usr/bin
+cd $PREFIX/bin
 rm -rf YTD.py
 rm -rf MYTD
 cd $HOME/YTD
