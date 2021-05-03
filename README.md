@@ -11,7 +11,7 @@
 
 ### SCREENSHOT :
 
-![alt text](http://github.com/mao2116/YTD/blob/8fc5ef02b6d4f6ffea9b31b859d3b9e1032ab3b3/Screenshot_2021-05-01-16-16-28-75.jpg?raw=true)
+![alt text](https://github.com/mao2116/YTD/blob/0d7feed86dbf891fedaa84adf1072d5318858d9e/Screenshot_2021-05-03-12-39-17-40.jpg?raw=true)
 
 
 ## INSTALLATION  :
